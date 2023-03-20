@@ -3,7 +3,7 @@ using System;
     {
         public double mygrade;
         public string mysubject, myID;
-        public Student() { }    //无参构造函数
+        public Student() { }    
         public Student(double grade, string subject, string id)
         {
             mygrade = grade;
